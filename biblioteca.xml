@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro id="1">
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <editorial>Sudamericana</editorial>
+        <fechaPublicacion>1967-05-30</fechaPublicacion>
+        <genero>Realismo mágico</genero>
+        <descripcion>Historia de la familia Buendía en el pueblo ficticio de Macondo.</descripcion>
+        <contenido>
+            <capitulo numero="1">
+                <titulo>Muchos años después</titulo>
+                <texto>Muchos años después, frente al pelotón de fusilamiento...</texto>
+            </capitulo>
+        </contenido>
+    </libro>
+    <libro id="2">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editorial>Francisco de Robles</editorial>
+        <fechaPublicacion>1605-01-16</fechaPublicacion>
+        <genero>Novela</genero>
+        <descripcion>Las aventuras de un hidalgo que enloquece leyendo libros de caballería.</descripcion>
+        <contenido>
+            <capitulo numero="1">
+                <titulo>En un lugar de la Mancha</titulo>
+                <texto>En un lugar de la Mancha, de cuyo nombre no quiero acordarme...</texto>
+            </capitulo>
+        </contenido>
+    </libro>
+    <libro id="3">
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <editorial>Secker &amp; Warburg</editorial>
+        <fechaPublicacion>1949-06-08</fechaPublicacion>
+        <genero>Ciencia ficción</genero>
+        <descripcion>Una sociedad controlada por un régimen totalitario y vigilada constantemente.</descripcion>
+        <contenido>
+            <capitulo numero="1">
+                <titulo>El Gran Hermano</titulo>
+                <texto>Era un día luminoso y frío de abril, y los relojes daban las trece...</texto>
+            </capitulo>
+        </contenido>
+    </libro>
+    <libro id="4">
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <editorial>Planeta</editorial>
+        <fechaPublicacion>2001-04-01</fechaPublicacion>
+        <genero>Misterio</genero>
+        <descripcion>Un joven descubre un libro maldito que cambia su vida para siempre.</descripcion>
+        <contenido>
+            <capitulo numero="1">
+                <titulo>El Cementerio de los Libros Olvidados</titulo>
+                <texto>Aún recuerdo aquel amanecer en que mi padre me llevó...</texto>
+            </capitulo>
+        </contenido>
+    </libro>
+    <libro id="5">
+        <titulo>El principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <editorial>Reynal &amp; Hitchcock</editorial>
+        <fechaPublicacion>1943-04-06</fechaPublicacion>
+        <genero>Fábula</genero>
+        <descripcion>Un aviador conoce a un pequeño príncipe que le enseña valiosas lecciones.</descripcion>
+        <contenido>
+            <capitulo numero="1">
+                <titulo>El dibujo del elefante</titulo>
+                <texto>Cuando yo tenía seis años vi una vez una lámina magnífica...</texto>
+            </capitulo>
+        </contenido>
+    </libro>
+</biblioteca>
